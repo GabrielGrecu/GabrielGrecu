@@ -201,7 +201,38 @@ header ul li a.active
 
 
 .img-fluid{
-    height: 25rem;
-    width: 28rem;
+    height: 22rem;
+    width: 25rem;
     border-radius: 50%;
 }
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
