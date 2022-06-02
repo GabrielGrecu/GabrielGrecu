@@ -236,3 +236,8 @@ header ul li a.active
     background: #125688;
     color: white;
   }
+
+ .card-img-top2{
+    width: 530px;
+    height: 520px;
+}
