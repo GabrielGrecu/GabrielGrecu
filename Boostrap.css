@@ -238,11 +238,51 @@ header ul li a.active
   }
 
  .card-img-top2{
-    width: 330px;
-    height: 360px;
+    width: 500px;
+    height: 550px;
+}
+@media(max-width:500px){
+    .card-img-top2{
+        width: 330px;
+        height: 360px;
+    }
+    }
+
+
+@media(max-width:1400px){
+        .card-img-top2{
+            width: 450px;
+            height: 470px;
+        }
+}
+
+@media(max-width:1200px){
+    .card-img-top2{
+        width: 350px;
+        height: 370px;
+    }
+}
+
+
+@media(max-width:990px){
+    .card-img-top2{
+        width: 270px;
+        height: 290px;
+    }
+}
+
+
+@media(max-width:770px){
+    .card-img-top2{
+        width: 500px;
+        height: 550px;
+    }
 }
 .ab{
     text-align: center;
     margin-top: 0px;
     top: 0px;
 }
+
+
+
